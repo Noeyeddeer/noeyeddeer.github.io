@@ -70,10 +70,6 @@ td {
   height: 70px;
 }
 
-td:hover:after {
-  content: "Are you sure?";
-}
-
 button {
   width: 150px;
   height: 28px;
